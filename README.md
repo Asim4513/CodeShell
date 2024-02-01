@@ -7,7 +7,7 @@ Basic Shell: dash Your basic shell, called dash (short for DAllas SHell, natural
 
 # Testing
 Run in Linux Environment(WSL).  
-Make sure you compile your program as follows: gcc Project1.c –o Project1 -Wall -Werror -O  
+Make sure you compile your program as follows: gcc Project1.c -o Project1 -Wall -Werror -O  
 Run the shell using: ./Project1  
 
 # Functionalities Implemented
@@ -20,3 +20,5 @@ Run the shell using: ./Project1
 • Used fork and multi-processing concepts to execute commands concurrently when & is encountered.  
 • Ensured proper error handling and messages for user guidance.    
 • Enhanced user experience by allowing interactive command input and batch processing.  
+
+PS: Try out different stuff with the shell functionalities :)
